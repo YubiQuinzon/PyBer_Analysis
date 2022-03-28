@@ -28,4 +28,3 @@ In summary with these findings we can suggest a few business recommendations:
 1. The service fare in Urban cities are significantly high, but the average fare earned by the drivers are relatively small. One way to combat this so that the drivers are properly earning the amount they deserve is by cutting the amount of drivers they have in the city. There is too many drivers out lowering the wages they can earn.
 2. Another thing we can aim on improving is the average fare for rides in non urban cities. The relative low rides may be due to the price - lowering the price may encourage more rides and decreasing the amount fares earned may also encourage more workers.
 3. Last suggestion is to lower the average fare per ride by lowering the average fare drivers earn in non urban cities.
-4. 
